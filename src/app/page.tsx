@@ -94,27 +94,27 @@ export default function Home() {
             <a href="" className="bg-white/5 p-2 rounded flex flex-col gap-2 hover:bg-white/10">
               <Image src= "/albumColdplay.jpg" className = "w-full" width={120} height={120} alt='Álbum da banda Coldplay' />
               <strong className="font-semibold">Daily mix 1</strong>
-              <span className="text-xs text-zinc-500">Wallows, COIN, girl in red and more</span>
+              <span className="text-xs text-zinc-500">Higher Power, My Universe, Biutyful e mais</span>
             </a>
             <a href="" className="bg-white/5 p-2 rounded flex flex-col gap-2 hover:bg-white/10">
               <Image src= "/albumColdplay.jpg" className = "w-full" width={120} height={120} alt='Álbum da banda Coldplay' />
               <strong className="font-semibold">Daily mix 1</strong>
-              <span className="text-xs text-zinc-500">Wallows, COIN, girl in red and more</span>
+              <span className="text-xs text-zinc-500">Higher Power, My Universe, Biutyful e mais</span>
             </a>
             <a href="" className="bg-white/5 p-2 rounded flex flex-col gap-2 hover:bg-white/10">
               <Image src= "/albumColdplay.jpg" className = "w-full" width={120} height={120} alt='Álbum da banda Coldplay' />
               <strong className="font-semibold">Daily mix 1</strong>
-              <span className="text-xs text-zinc-500">Wallows, COIN, girl in red and more</span>
+              <span className="text-xs text-zinc-500">Higher Power, My Universe, Biutyful e mais</span>
             </a>
             <a href="" className="bg-white/5 p-2 rounded flex flex-col gap-2 hover:bg-white/10">
               <Image src= "/albumColdplay.jpg" className = "w-full" width={120} height={120} alt='Álbum da banda Coldplay' />
               <strong className="font-semibold">Daily mix 1</strong>
-              <span className="text-xs text-zinc-500">Wallows, COIN, girl in red and more</span>
+              <span className="text-xs text-zinc-500">Higher Power, My Universe, Biutyful e mais</span>
             </a>
             <a href="" className="bg-white/5 p-2 rounded flex flex-col gap-2 hover:bg-white/10">
               <Image src= "/albumColdplay.jpg" className = "w-full" width={120} height={120} alt='Álbum da banda Coldplay' />
               <strong className="font-semibold">Daily mix 1</strong>
-              <span className="text-xs text-zinc-500">Wallows, COIN, girl in red and more</span>
+              <span className="text-xs text-zinc-500">Higher Power, My Universe, Biutyful e mais</span>
             </a>
           </div>
         </main>
